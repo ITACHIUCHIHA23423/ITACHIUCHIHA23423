@@ -1,4 +1,4 @@
-### Hi there 👋
+die
 
 <!--
 **ITACHIUCHIHA23423/ITACHIUCHIHA23423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
